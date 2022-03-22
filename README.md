@@ -11,6 +11,11 @@
 
 <p align = 'JUSTIFY'>Para aplicação desse desse aprendizado supervisionado, foi usada uma base de dados de crédito, a fim de responder a seguinte pergunta: Com base nos quatro previsores - história, dívida, garantias e renda - qual seré risco de conceder um empréstimo a um determinado cliente? </p>
 
+<p align = 'JUSTIFY'>Abaixo, seguem algumas métricas que constam nessa aplicação com seus devidos comentários</p>
+
+
+
+
 
 <h3>BIBLIOTECAS/IMPORTAÇÕES</h3>
 
