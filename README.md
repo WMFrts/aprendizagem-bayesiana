@@ -16,7 +16,7 @@
 
 
 
-<p align = 'CENTER'><img src=""></p>
+<p align = 'CENTER'><img src="https://github.com/WMFrts/aprendizagem-bayesiana/blob/main/metricas.png?raw=true"></p>
 
 
 
