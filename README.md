@@ -49,3 +49,9 @@
 <dt>9 Matriz de confusão</dt>
 <dt>10 Métricas</dt>
 </dl>
+
+
+<h3>REFERÊNCIAS</h3>
+
+<p align = 'JUSTIFY'>SMitchell, T.M. (1997). Machine Learning. McGraw Hill, New York.</p>
+
