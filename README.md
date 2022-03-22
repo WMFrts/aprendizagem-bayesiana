@@ -11,7 +11,12 @@
 
 <p align = 'JUSTIFY'>Para aplicação desse desse aprendizado supervisionado, foi usada uma base de dados de crédito, a fim de responder a seguinte pergunta: Com base nos quatro previsores - história, dívida, garantias e renda - qual seré risco de conceder um empréstimo a um determinado cliente? </p>
 
-<p align = 'JUSTIFY'>Abaixo, seguem algumas métricas que constam nessa aplicação com seus devidos comentários</p>
+<p align = 'JUSTIFY'>Abaixo, seguem algumas métricas que constam nessa aplicação com seus devidos comentários:</p>
+
+
+
+  <p align = 'CENTER'><img src="https://github.com/WMFrts/aprendizagem-bayesiana/blob/main/metricas.png?raw=true"></p>
+
 
 
 
@@ -24,10 +29,23 @@
 
 * numpy 
 
-* seaborn
-
-* matplotlib.pyplot
-
-* plotly.express
+* sklearn
 
 * pickle
+
+
+
+<h3>ÍNDICE</h3>
+
+<dl>
+<dt>1 Importação das bibliotecas</dt>
+<dt>2 Base de dados de crédito</dt>
+<dt>3 Pré-processamento</dt>
+<dt>4 Variáveis salvas</dt>
+<dt>5 Previsão de risco</dt>
+<dt>6 Utilização da base de dados salva - treinamento e teste</dt>
+<dt>7 Previsões</dt>
+<dt>8 Comparação das previsões com os dados reais</dt>
+<dt>9 Matriz de confusão</dt>
+<dt>10 Métricas</dt>
+</dl>
