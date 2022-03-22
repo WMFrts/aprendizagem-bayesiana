@@ -53,5 +53,5 @@
 
 <h3>REFERÊNCIAS</h3>
 
-<p align = 'JUSTIFY'>SMitchell, T.M. (1997). Machine Learning. McGraw Hill, New York.</p>
+<p align = 'JUSTIFY'>Mitchell, T.M. (1997). Machine Learning. McGraw Hill, New York.</p>
 
