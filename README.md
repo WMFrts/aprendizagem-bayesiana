@@ -9,7 +9,7 @@
 <p align = 'JUSTIFY'> O aprendizado bayesiano é do tipo supervisionado, já que são fornecidas ao algoritmo de aprendizado de máquina as instâncias juntamente com seus rótulos (ou seja, as classes). Seguindo o paradigma estatístico, o algoritmo faz uso de fórmulas estatísticas e cálculo de probabilidades para realizar a classificação (Mitchell, 1997). </p>
 
 
-<p align = 'JUSTIFY'>Para aplicação desse desse aprendizado supervisionado, foi usada uma base de dados de crédito, a fim de responder a seguinte pergunta: Com base nos quatro previsores - história, dívida, garantias e renda - qual será o risco de conceder empréstimo a um determinado cliente? </p>
+<p align = 'JUSTIFY'>Para aplicação desse aprendizado supervisionado, foi usada uma base de dados de crédito, a fim de responder a seguinte pergunta: Com base nos quatro previsores - história, dívida, garantias e renda - qual será o risco de conceder empréstimo a um determinado cliente? </p>
 
 <p align = 'JUSTIFY'>Abaixo, seguem algumas métricas comentadas que constam nessa aplicação:</p>
 
